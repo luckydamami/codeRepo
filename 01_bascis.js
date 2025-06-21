@@ -4,4 +4,5 @@ var userName = "Rohit Sharma";
 userCity = "Ajmer";
 
 //userId = 18233;
-console.log("User id is : " + userId);
+//console.log("User id is : " + userId);
+console.table([userId, userEmail, userName, userCity]);
